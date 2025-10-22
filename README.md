@@ -15,7 +15,7 @@ Designed for learning and visualization in **ROS 2** using **RViz2**.
 ## 🚀 Usage
 ```bash
 cd ~/ros2_ws/src
-git clone https://github.com/YourUsername/simple_urdf.git
+git clone https://github.com/soorya-prakash-r/urdf_3502.git
 cd ~/ros2_ws
 colcon build
 source install/setup.bash
