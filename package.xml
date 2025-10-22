@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>simple_urdf</name>
+  <version>0.0.1</version>
+  <description>Simple URDF robot model</description>
+
+  <maintainer email="you@example.com">Your Name</maintainer>
+  <license>MIT</license>
+
+  <depend>ament_cmake</depend>
+  <depend>robot_state_publisher</depend>
+  <depend>joint_state_publisher_gui</depend>
+  <depend>rviz2</depend>
+</package>
